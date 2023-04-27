@@ -1,0 +1,30 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Alata&family=Open+Sans&family=PT+Sans+Caption:wght@400;700&family=Sassy+Frass&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url('/assets/background_img.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.center-div{
+    padding-top: 10%;
+}
+
+.btn.btn-success{
+   margin-top: 2em;
+    padding:0.5em 2em;
+}
+
+form{
+    padding: 0 3em;
+}
+
+#login.title > span{
+    font-size: 8em;
+}
+
+.container{
+    border-radius: 5%;
+    
+}
